@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/cmd.png</file>
+        <file>icons/camera.png</file>
+        <file>icons/computer_off.png</file>
+        <file>icons/computer_on.png</file>
+        <file>icons/danger.png</file>
+        <file>icons/keys.png</file>
+        <file>icons/music.png</file>
+        <file>icons/lady_japanese.png</file>
+        <file>icons/eyes_off.png</file>
+        <file>icons/eyes_on.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/made_in_japan_ui_V2.jpg</file>
+        <file>images/made_in_japan_ui.jpg</file>
+        <file>images/button.jpg</file>
+        <file>images/button_press.jpg</file>
+        <file>images/button_sqr.jpg</file>
+        <file>images/button_sqr_press.jpg</file>
+        <file>images/button_exit.jpg</file>
+        <file>images/button_exit_press.jpg</file>
+        <file>images/Post-Explotation-Helper.jpg</file>
+    </qresource>
+</RCC>
